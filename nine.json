@@ -1,852 +1,221 @@
-[
-  {
-    "file_name": "60-seconds-burger-run.html",
-    "title": "60 Seconds Burger Run",
-    "thumb": "thumbs/60-seconds-burger-run.avif"
-  },
-  {
-    "file_name": "60-seconds-santa-run.html",
-    "title": "60 Seconds Santa Run",
-    "thumb": "thumbs/60-seconds-santa-run.avif"
-  },
-  {
-    "file_name": "64-in-1-nes.html",
-    "title": "64 in 1 NES",
-    "thumb": "thumbs/64-in-1-nes.avif"
-  },
-  {
-    "file_name": "absolute-madness.html",
-    "title": "Absolute Madness",
-    "thumb": "thumbs/absolute-madness.avif"
-  },
-  {
-    "file_name": "alien-hominid-gba.html",
-    "title": "Alien Hominid GBA",
-    "thumb": "thumbs/alien-hominid-gba.avif"
-  },
-  {
-    "file_name": "amidst-the-sky.html",
-    "title": "Amidst the Sky",
-    "thumb": "thumbs/amidst-the-sky.avif"
-  },
-  {
-    "file_name": "angry-birds.html",
-    "title": "Angry Birds",
-    "thumb": "thumbs/angry-birds.avif"
-  },
-  {
-    "file_name": "angry-birds-chrome.html",
-    "title": "Angry Birds Chrome",
-    "thumb": "thumbs/angry-birds-chrome.avif"
-  },
-  {
-    "file_name": "angry-birds-showdown.html",
-    "title": "Angry Birds Showdown",
-    "thumb": "thumbs/angry-birds-showdown.avif"
-  },
-  {
-    "file_name": "asteroids.html",
-    "title": "Asteroids",
-    "thumb": "thumbs/asteroids.avif"
-  },
-  {
-    "file_name": "awesome-planes.html",
-    "title": "Awesome Planes",
-    "thumb": "thumbs/awesome-planes.avif"
-  },
-  {
-    "file_name": "backyards-occ-er.html",
-    "title": "Backyards Occ Er",
-    "thumb": "thumbs/backyards-occ-er.avif"
-  },
-  {
-    "file_name": "bitplanes.html",
-    "title": "Bitplanes",
-    "thumb": "thumbs/bitplanes.avif"
-  },
-  {
-    "file_name": "breath-of-the-wild-nds.html",
-    "title": "Breath of the Wild NDS",
-    "thumb": "thumbs/breath-of-the-wild-nds.avif"
-  },
-  {
-    "file_name": "car-mods.html",
-    "title": "Car Mods",
-    "thumb": "thumbs/car-mods.avif"
-  },
-  {
-    "file_name": "castlevania-nes.html",
-    "title": "Castlevania NES",
-    "thumb": "thumbs/castlevania-nes.avif"
-  },
-  {
-    "file_name": "cat-mario.html",
-    "title": "Cat Mario",
-    "thumb": "thumbs/cat-mario.avif"
-  },
-  {
-    "file_name": "cl-madness-ambulation.html",
-    "title": "Cl Madness Ambulation",
-    "thumb": "thumbs/cl-madness-ambulation.avif"
-  },
-  {
-    "file_name": "donkey-kong.html",
-    "title": "Donkey Kong",
-    "thumb": "thumbs/donkey-kong.avif"
-  },
-  {
-    "file_name": "donkey-kong-64.html",
-    "title": "Donkey Kong 64",
-    "thumb": "thumbs/donkey-kong-64.avif"
-  },
-  {
-    "file_name": "donkey-kong-country.html",
-    "title": "Donkey Kong Country",
-    "thumb": "thumbs/donkey-kong-country.avif"
-  },
-  {
-    "file_name": "donkey-kong-country-2.html",
-    "title": "Donkey Kong Country 2",
-    "thumb": "thumbs/donkey-kong-country-2.avif"
-  },
-  {
-    "file_name": "donkey-kong-country-3.html",
-    "title": "Donkey Kong Country 3",
-    "thumb": "thumbs/donkey-kong-country-3.avif"
-  },
-  {
-    "file_name": "donkey-kong-nes.html",
-    "title": "Donkey Kong NES",
-    "thumb": "thumbs/donkey-kong-nes.avif"
-  },
-  {
-    "file_name": "dr-mario.html",
-    "title": "Dr Mario",
-    "thumb": "thumbs/dr-mario.avif"
-  },
-  {
-    "file_name": "effing-machines.html",
-    "title": "Effing Machines",
-    "thumb": "thumbs/effing-machines.avif"
-  },
-  {
-    "file_name": "fitness-empire.html",
-    "title": "Fitness Empire",
-    "thumb": "thumbs/fitness-empire.avif"
-  },
-  {
-    "file_name": "football-legends.html",
-    "title": "Football Legends",
-    "thumb": "thumbs/football-legends.avif"
-  },
-  {
-    "file_name": "friday-night-funkin':-darkness-takeover.html",
-    "title": "Friday Night Funkin': Darkness Takeover",
-    "thumb": "thumbs/friday-night-funkin':-darkness-takeover.avif"
-  },
-  {
-    "file_name": "friday-night-funkin':-mario's-madness.html",
-    "title": "Friday Night Funkin': Mario's Madness",
-    "thumb": "thumbs/friday-night-funkin':-mario's-madness.avif"
-  },
-  {
-    "file_name": "friday-night-funkin’-wednesday's-infidelity.html",
-    "title": "Friday Night Funkin’ Wednesday's Infidelity",
-    "thumb": "thumbs/friday-night-funkin’-wednesday's-infidelity.avif"
-  },
-  {
-    "file_name": "handshakes.html",
-    "title": "Handshakes",
-    "thumb": "thumbs/handshakes.avif"
-  },
-  {
-    "file_name": "house-of-hazards.html",
-    "title": "House of Hazards",
-    "thumb": "thumbs/house-of-hazards.avif"
-  },
-  {
-    "file_name": "jelly-mario.html",
-    "title": "Jelly Mario",
-    "thumb": "thumbs/jelly-mario.avif"
-  },
-  {
-    "file_name": "jumbo-mario.html",
-    "title": "Jumbo Mario",
-    "thumb": "thumbs/jumbo-mario.avif"
-  },
-  {
-    "file_name": "kirby-64.html",
-    "title": "Kirby 64",
-    "thumb": "thumbs/kirby-64.avif"
-  },
-  {
-    "file_name": "kirby-squeak-squad.html",
-    "title": "Kirby Squeak Squad",
-    "thumb": "thumbs/kirby-squeak-squad.avif"
-  },
-  {
-    "file_name": "kirby-superstar.html",
-    "title": "Kirby Superstar",
-    "thumb": "thumbs/kirby-superstar.avif"
-  },
-  {
-    "file_name": "kirby-superstar-ultra.html",
-    "title": "Kirby Superstar Ultra",
-    "thumb": "thumbs/kirby-superstar-ultra.avif"
-  },
-  {
-    "file_name": "kirby-and-the-amazing-mirror.html",
-    "title": "Kirby and the Amazing Mirror",
-    "thumb": "thumbs/kirby-and-the-amazing-mirror.avif"
-  },
-  {
-    "file_name": "kirby-~-soft-&-wet.html",
-    "title": "Kirby ~ Soft & Wet",
-    "thumb": "thumbs/kirby-~-soft-&-wet.avif"
-  },
-  {
-    "file_name": "kirbys-adventure.html",
-    "title": "Kirbys Adventure",
-    "thumb": "thumbs/kirbys-adventure.avif"
-  },
-  {
-    "file_name": "kirbys-dreamland.html",
-    "title": "Kirbys Dreamland",
-    "thumb": "thumbs/kirbys-dreamland.avif"
-  },
-  {
-    "file_name": "kirbys-dreamland-3.html",
-    "title": "Kirbys Dreamland 3",
-    "thumb": "thumbs/kirbys-dreamland-3.avif"
-  },
-  {
-    "file_name": "lego-indiana-jones.html",
-    "title": "Lego Indiana Jones",
-    "thumb": "thumbs/lego-indiana-jones.avif"
-  },
-  {
-    "file_name": "lego-indiana-jones-2.html",
-    "title": "Lego Indiana Jones 2",
-    "thumb": "thumbs/lego-indiana-jones-2.avif"
-  },
-  {
-    "file_name": "madness-2010.html",
-    "title": "Madness 2010",
-    "thumb": "thumbs/madness-2010.avif"
-  },
-  {
-    "file_name": "madness-accelerant.html",
-    "title": "Madness Accelerant",
-    "thumb": "thumbs/madness-accelerant.avif"
-  },
-  {
-    "file_name": "madness-combat-defense.html",
-    "title": "Madness Combat Defense",
-    "thumb": "thumbs/madness-combat-defense.avif"
-  },
-  {
-    "file_name": "madness-combat-nexus.html",
-    "title": "Madness Combat Nexus",
-    "thumb": "thumbs/madness-combat-nexus.avif"
-  },
-  {
-    "file_name": "madness-combat:-project-nexus-(classic).html",
-    "title": "Madness Combat: Project Nexus (classic)",
-    "thumb": "thumbs/madness-combat:-project-nexus-(classic).avif"
-  },
-  {
-    "file_name": "madness-gemini.html",
-    "title": "Madness Gemini",
-    "thumb": "thumbs/madness-gemini.avif"
-  },
-  {
-    "file_name": "madness-hydraulic.html",
-    "title": "Madness Hydraulic",
-    "thumb": "thumbs/madness-hydraulic.avif"
-  },
-  {
-    "file_name": "madness-off-color.html",
-    "title": "Madness Off Color",
-    "thumb": "thumbs/madness-off-color.avif"
-  },
-  {
-    "file_name": "madness-premedia-tion.html",
-    "title": "Madness Premedia Tion",
-    "thumb": "thumbs/madness-premedia-tion.avif"
-  },
-  {
-    "file_name": "madness-retaliation.html",
-    "title": "Madness Retaliation",
-    "thumb": "thumbs/madness-retaliation.avif"
-  },
-  {
-    "file_name": "madness-stand.html",
-    "title": "Madness Stand",
-    "thumb": "thumbs/madness-stand.avif"
-  },
-  {
-    "file_name": "mario-3.html",
-    "title": "Mario 3",
-    "thumb": "thumbs/mario-3.avif"
-  },
-  {
-    "file_name": "mario-builder-64.html",
-    "title": "Mario Builder 64",
-    "thumb": "thumbs/mario-builder-64.avif"
-  },
-  {
-    "file_name": "mario-combat.html",
-    "title": "Mario Combat",
-    "thumb": "thumbs/mario-combat.avif"
-  },
-  {
-    "file_name": "mario-golf.html",
-    "title": "Mario Golf",
-    "thumb": "thumbs/mario-golf.avif"
-  },
-  {
-    "file_name": "mario-kart-64.html",
-    "title": "Mario Kart 64",
-    "thumb": "thumbs/mario-kart-64.avif"
-  },
-  {
-    "file_name": "mario-kart-ds.html",
-    "title": "Mario Kart DS",
-    "thumb": "thumbs/mario-kart-ds.avif"
-  },
-  {
-    "file_name": "mario-kart-super-circuit.html",
-    "title": "Mario Kart Super Circuit",
-    "thumb": "thumbs/mario-kart-super-circuit.avif"
-  },
-  {
-    "file_name": "mario-paint.html",
-    "title": "Mario Paint",
-    "thumb": "thumbs/mario-paint.avif"
-  },
-  {
-    "file_name": "mario-party.html",
-    "title": "Mario Party",
-    "thumb": "thumbs/mario-party.avif"
-  },
-  {
-    "file_name": "mario-party-2.html",
-    "title": "Mario Party 2",
-    "thumb": "thumbs/mario-party-2.avif"
-  },
-  {
-    "file_name": "mario-party-3.html",
-    "title": "Mario Party 3",
-    "thumb": "thumbs/mario-party-3.avif"
-  },
-  {
-    "file_name": "mario-party-ds.html",
-    "title": "Mario Party DS",
-    "thumb": "thumbs/mario-party-ds.avif"
-  },
-  {
-    "file_name": "mario-tennis.html",
-    "title": "Mario Tennis",
-    "thumb": "thumbs/mario-tennis.avif"
-  },
-  {
-    "file_name": "marios-mystery-meat.html",
-    "title": "Marios Mystery Meat",
-    "thumb": "thumbs/marios-mystery-meat.avif"
-  },
-  {
-    "file_name": "megaman-2-gba.html",
-    "title": "Megaman 2 GBA",
-    "thumb": "thumbs/megaman-2-gba.avif"
-  },
-  {
-    "file_name": "mindscape.html",
-    "title": "Mindscape",
-    "thumb": "thumbs/mindscape.avif"
-  },
-  {
-    "file_name": "minesweeper-mania.html",
-    "title": "Minesweeper Mania",
-    "thumb": "thumbs/minesweeper-mania.avif"
-  },
-  {
-    "file_name": "minesweeper-plus.html",
-    "title": "Minesweeper Plus",
-    "thumb": "thumbs/minesweeper-plus.avif"
-  },
-  {
-    "file_name": "newgrounds-rumble.html",
-    "title": "Newgrounds Rumble",
-    "thumb": "thumbs/newgrounds-rumble.avif"
-  },
-  {
-    "file_name": "nintendo-world-cup.html",
-    "title": "Nintendo World Cup",
-    "thumb": "thumbs/nintendo-world-cup.avif"
-  },
-  {
-    "file_name": "oneshot-(legacy).html",
-    "title": "Oneshot (LEGACY)",
-    "thumb": "thumbs/oneshot-(legacy).avif"
-  },
-  {
-    "file_name": "paper-planes.html",
-    "title": "Papery Planes",
-    "thumb": "thumbs/paper-planes.avif"
-  },
-  {
-    "file_name": "pixel-battlegrounds-io.html",
-    "title": "Pixel Battlegrounds IO",
-    "thumb": "thumbs/pixel-battlegrounds-io.avif"
-  },
-  {
-    "file_name": "pokemon-black.html",
-    "title": "Pokemon Black",
-    "thumb": "thumbs/pokemon-black.avif"
-  },
-  {
-    "file_name": "pokemon-black-2html.html",
-    "title": "Pokemon Black 2html",
-    "thumb": "thumbs/pokemon-black-2html.avif"
-  },
-  {
-    "file_name": "pokemon-blaze-black-2-redux.html",
-    "title": "Pokemon Blaze Black 2 Redux",
-    "thumb": "thumbs/pokemon-blaze-black-2-redux.avif"
-  },
-  {
-    "file_name": "pokemon-blue.html",
-    "title": "Pokemon Blue",
-    "thumb": "thumbs/pokemon-blue.avif"
-  },
-  {
-    "file_name": "pokemon-diamond.html",
-    "title": "Pokemon Diamond",
-    "thumb": "thumbs/pokemon-diamond.avif"
-  },
-  {
-    "file_name": "pokemon-emerald-random.html",
-    "title": "Pokemon Emerald Random",
-    "thumb": "thumbs/pokemon-emerald-random.avif"
-  },
-  {
-    "file_name": "pokemon-gaia.html",
-    "title": "Pokemon Gaia",
-    "thumb": "thumbs/pokemon-gaia.avif"
-  },
-  {
-    "file_name": "pokemon-heart-gold.html",
-    "title": "Pokemon Heart Gold",
-    "thumb": "thumbs/pokemon-heart-gold.avif"
-  },
-  {
-    "file_name": "pokemon-light-platinum.html",
-    "title": "Pokemon Light Platinum",
-    "thumb": "thumbs/pokemon-light-platinum.avif"
-  },
-  {
-    "file_name": "pokemon-mon-clover.html",
-    "title": "Pokemon Mon Clover",
-    "thumb": "thumbs/pokemon-mon-clover.avif"
-  },
-  {
-    "file_name": "pokemon-mon-crystal.html",
-    "title": "Pokemon Mon Crystal",
-    "thumb": "thumbs/pokemon-mon-crystal.avif"
-  },
-  {
-    "file_name": "pokemon-mon-firer-ed.html",
-    "title": "Pokemon Mon Firer Ed",
-    "thumb": "thumbs/pokemon-mon-firer-ed.avif"
-  },
-  {
-    "file_name": "pokemon-mon-firer-edra-nd-om-ize-d.html",
-    "title": "Pokemon Mon Firer Edra Nd Om Ize D",
-    "thumb": "thumbs/pokemon-mon-firer-edra-nd-om-ize-d.avif"
-  },
-  {
-    "file_name": "pokemon-mon-leaf-green.html",
-    "title": "Pokemon Mon Leaf Green",
-    "thumb": "thumbs/pokemon-mon-leaf-green.avif"
-  },
-  {
-    "file_name": "pokemon-mon-mystery-dungeon.html",
-    "title": "Pokemon Mon Mystery Dungeon",
-    "thumb": "thumbs/pokemon-mon-mystery-dungeon.avif"
-  },
-  {
-    "file_name": "pokemon-mon-quetzal.html",
-    "title": "Pokemon Mon Quetzal",
-    "thumb": "thumbs/pokemon-mon-quetzal.avif"
-  },
-  {
-    "file_name": "pokemon-mon-ruby.html",
-    "title": "Pokemon Mon Ruby",
-    "thumb": "thumbs/pokemon-mon-ruby.avif"
-  },
-  {
-    "file_name": "pokemon-mon-ultimate-fusion.html",
-    "title": "Pokemon Mon Ultimate Fusion",
-    "thumb": "thumbs/pokemon-mon-ultimate-fusion.avif"
-  },
-  {
-    "file_name": "pokemon-mon-unbound.html",
-    "title": "Pokemon Mon Unbound",
-    "thumb": "thumbs/pokemon-mon-unbound.avif"
-  },
-  {
-    "file_name": "pokemon-mon-vega.html",
-    "title": "Pokemon Mon Vega",
-    "thumb": "thumbs/pokemon-mon-vega.avif"
-  },
-  {
-    "file_name": "pokemon-mone-ne-rg-ize-deme-ra-ld.html",
-    "title": "Pokemon Mone Ne Rg Ize Deme Ra Ld",
-    "thumb": "thumbs/pokemon-mone-ne-rg-ize-deme-ra-ld.avif"
-  },
-  {
-    "file_name": "pokemon-mone-vol-ve-ds-fd-gs-dfs.html",
-    "title": "Pokemon Mone Vol Ve DS Fd Gs Dfs",
-    "thumb": "thumbs/pokemon-mone-vol-ve-ds-fd-gs-dfs.avif"
-  },
-  {
-    "file_name": "pokemon-moneme-ra-ld.html",
-    "title": "Pokemon Moneme Ra Ld",
-    "thumb": "thumbs/pokemon-moneme-ra-ld.avif"
-  },
-  {
-    "file_name": "pokemon-moneme-ra-ld-imperium.html",
-    "title": "Pokemon Moneme Ra Ld Imperium",
-    "thumb": "thumbs/pokemon-moneme-ra-ld-imperium.avif"
-  },
-  {
-    "file_name": "pokemon-moneme-ra-ld-kai-zo.html",
-    "title": "Pokemon Moneme Ra Ld Kai Zo",
-    "thumb": "thumbs/pokemon-moneme-ra-ld-kai-zo.avif"
-  },
-  {
-    "file_name": "pokemon-moneme-ra-ld-mini.html",
-    "title": "Pokemon Moneme Ra Ld Mini",
-    "thumb": "thumbs/pokemon-moneme-ra-ld-mini.avif"
-  },
-  {
-    "file_name": "pokemon-moneme-ra-ld-rouge.html",
-    "title": "Pokemon Moneme Ra Ld Rouge",
-    "thumb": "thumbs/pokemon-moneme-ra-ld-rouge.avif"
-  },
-  {
-    "file_name": "pokemon-moneme-ra-ldc-rest.html",
-    "title": "Pokemon Moneme Ra Ldc Rest",
-    "thumb": "thumbs/pokemon-moneme-ra-ldc-rest.avif"
-  },
-  {
-    "file_name": "pokemon-moneme-ra-lds-ea-glass.html",
-    "title": "Pokemon Moneme Ra Lds Ea Glass",
-    "thumb": "thumbs/pokemon-moneme-ra-lds-ea-glass.avif"
-  },
-  {
-    "file_name": "pokemon-mongol-d.html",
-    "title": "Pokemon Mongol D",
-    "thumb": "thumbs/pokemon-mongol-d.avif"
-  },
-  {
-    "file_name": "pokemon-monro-ck-et-edition.html",
-    "title": "Pokemon Monro Ck Et Edition",
-    "thumb": "thumbs/pokemon-monro-ck-et-edition.avif"
-  },
-  {
-    "file_name": "pokemon-mons-app-hire.html",
-    "title": "Pokemon Mons App Hire",
-    "thumb": "thumbs/pokemon-mons-app-hire.avif"
-  },
-  {
-    "file_name": "pokemon-mons-ilv-er.html",
-    "title": "Pokemon Mons Ilv Er",
-    "thumb": "thumbs/pokemon-mons-ilv-er.avif"
-  },
-  {
-    "file_name": "pokemon-mons-nap.html",
-    "title": "Pokemon Mons Nap",
-    "thumb": "thumbs/pokemon-mons-nap.avif"
-  },
-  {
-    "file_name": "pokemon-mons-tad-ium.html",
-    "title": "Pokemon Mons Tad Ium",
-    "thumb": "thumbs/pokemon-mons-tad-ium.avif"
-  },
-  {
-    "file_name": "pokemon-monto-wer-defense.html",
-    "title": "Pokemon Monto Wer Defense",
-    "thumb": "thumbs/pokemon-monto-wer-defense.avif"
-  },
-  {
-    "file_name": "pokemon-mystery-explorers-ofs-ky.html",
-    "title": "Pokemon Mystery Explorers Ofs Ky",
-    "thumb": "thumbs/pokemon-mystery-explorers-ofs-ky.avif"
-  },
-  {
-    "file_name": "pokemon-pearl.html",
-    "title": "Pokemon Pearl",
-    "thumb": "thumbs/pokemon-pearl.avif"
-  },
-  {
-    "file_name": "pokemon-platinum.html",
-    "title": "Pokemon Platinum",
-    "thumb": "thumbs/pokemon-platinum.avif"
-  },
-  {
-    "file_name": "pokemon-platinum-randomized.html",
-    "title": "Pokemon Platinum Randomized",
-    "thumb": "thumbs/pokemon-platinum-randomized.avif"
-  },
-  {
-    "file_name": "pokemon-red.html",
-    "title": "Pokemon Red",
-    "thumb": "thumbs/pokemon-red.avif"
-  },
-  {
-    "file_name": "pokemon-runa-ndb-un.html",
-    "title": "Pokemon Runa Ndb Un",
-    "thumb": "thumbs/pokemon-runa-ndb-un.avif"
-  },
-  {
-    "file_name": "pokemon-volt-white-2-redux.html",
-    "title": "Pokemon Volt White 2 Redux",
-    "thumb": "thumbs/pokemon-volt-white-2-redux.avif"
-  },
-  {
-    "file_name": "pokemon-voyager.html",
-    "title": "Pokemon Voyager",
-    "thumb": "thumbs/pokemon-voyager.avif"
-  },
-  {
-    "file_name": "pokemon-white.html",
-    "title": "Pokemon White",
-    "thumb": "thumbs/pokemon-white.avif"
-  },
-  {
-    "file_name": "pokemon-white-2.html",
-    "title": "Pokemon White 2",
-    "thumb": "thumbs/pokemon-white-2.avif"
-  },
-  {
-    "file_name": "pokemon-white-2-file-name.html",
-    "title": "Pokemon White 2 File Name",
-    "thumb": "thumbs/pokemon-white-2-file-name.avif"
-  },
-  {
-    "file_name": "pokemon-yellow.html",
-    "title": "Pokemon Yellow",
-    "thumb": "thumbs/pokemon-yellow.avif"
-  },
-  {
-    "file_name": "pokemons-tunning-steel.html",
-    "title": "Pokemons Tunning Steel",
-    "thumb": "thumbs/pokemons-tunning-steel.avif"
-  },
-  {
-    "file_name": "pokes-cor-che-dsi-lv-er.html",
-    "title": "Pokes Cor Che Dsi Lv Er",
-    "thumb": "thumbs/pokes-cor-che-dsi-lv-er.avif"
-  },
-  {
-    "file_name": "sandstone.html",
-    "title": "Sandstone",
-    "thumb": "thumbs/sandstone.avif"
-  },
-  {
-    "file_name": "shredsauce.html",
-    "title": "ShredSauce",
-    "thumb": "thumbs/shredsauce.avif"
-  },
-  {
-    "file_name": "slow-roads.html",
-    "title": "Slow Roads",
-    "thumb": "thumbs/slow-roads.avif"
-  },
-  {
-    "file_name": "speeds-tars.html",
-    "title": "Speeds Tars",
-    "thumb": "thumbs/speeds-tars.avif"
-  },
-  {
-    "file_name": "super-diagonal-mario-2.html",
-    "title": "Super Diagonal Mario 2",
-    "thumb": "thumbs/super-diagonal-mario-2.avif"
-  },
-  {
-    "file_name": "super-mario.html",
-    "title": "Super Mario",
-    "thumb": "thumbs/super-mario.avif"
-  },
-  {
-    "file_name": "super-mario-63.html",
-    "title": "Super Mario 63",
-    "thumb": "thumbs/super-mario-63.avif"
-  },
-  {
-    "file_name": "super-mario-64.html",
-    "title": "Super Mario 64",
-    "thumb": "thumbs/super-mario-64.avif"
-  },
-  {
-    "file_name": "super-mario-64-ds.html",
-    "title": "Super Mario 64 DS",
-    "thumb": "thumbs/super-mario-64-ds.avif"
-  },
-  {
-    "file_name": "super-mario-bros.html",
-    "title": "Super Mario Bros",
-    "thumb": "thumbs/super-mario-bros.avif"
-  },
-  {
-    "file_name": "super-mario-bros-2.html",
-    "title": "Super Mario Bros 2",
-    "thumb": "thumbs/super-mario-bros-2.avif"
-  },
-  {
-    "file_name": "super-mario-bros-2-us.html",
-    "title": "Super Mario Bros 2 Us",
-    "thumb": "thumbs/super-mario-bros-2-us.avif"
-  },
-  {
-    "file_name": "super-mario-bros-3.html",
-    "title": "Super Mario Bros 3",
-    "thumb": "thumbs/super-mario-bros-3.avif"
-  },
-  {
-    "file_name": "super-mario-kart.html",
-    "title": "Super Mario Kart",
-    "thumb": "thumbs/super-mario-kart.avif"
-  },
-  {
-    "file_name": "super-mario-land.html",
-    "title": "Super Mario Land",
-    "thumb": "thumbs/super-mario-land.avif"
-  },
-  {
-    "file_name": "super-mario-land-2.html",
-    "title": "Super Mario Land 2",
-    "thumb": "thumbs/super-mario-land-2.avif"
-  },
-  {
-    "file_name": "super-mario-mon.html",
-    "title": "Super Mario Mon",
-    "thumb": "thumbs/super-mario-mon.avif"
-  },
-  {
-    "file_name": "super-mario-rpg.html",
-    "title": "Super Mario RPG",
-    "thumb": "thumbs/super-mario-rpg.avif"
-  },
-  {
-    "file_name": "super-mario-world.html",
-    "title": "Super Mario World",
-    "thumb": "thumbs/super-mario-world.avif"
-  },
-  {
-    "file_name": "super-mario-world-2.html",
-    "title": "Super Mario World 2",
-    "thumb": "thumbs/super-mario-world-2.avif"
-  },
-  {
-    "file_name": "switchblade.html",
-    "title": "Switchblade",
-    "thumb": "thumbs/switchblade.avif"
-  },
-  {
-    "file_name": "sword-ands-hield-ultimate-plus.html",
-    "title": "Sword Ands Hield Ultimate Plus",
-    "thumb": "thumbs/sword-ands-hield-ultimate-plus.avif"
-  },
-  {
-    "file_name": "swords-and-sandals.html",
-    "title": "Swords and Sandals",
-    "thumb": "thumbs/swords-and-sandals.avif"
-  },
-  {
-    "file_name": "swords-and-sandals-2.html",
-    "title": "Swords and Sandals 2",
-    "thumb": "thumbs/swords-and-sandals-2.avif"
-  },
-  {
-    "file_name": "swords-and-souls.html",
-    "title": "Swords and Souls",
-    "thumb": "thumbs/swords-and-souls.avif"
-  },
-  {
-    "file_name": "telekinesis.html",
-    "title": "Telekinesis",
-    "thumb": "thumbs/telekinesis.avif"
-  },
-  {
-    "file_name": "telekinesis-attack.html",
-    "title": "Telekinesis Attack",
-    "thumb": "thumbs/telekinesis-attack.avif"
-  },
-  {
-    "file_name": "telekinesis-car.html",
-    "title": "Telekinesis Car",
-    "thumb": "thumbs/telekinesis-car.avif"
-  },
-  {
-    "file_name": "telekinesis-drive.html",
-    "title": "Telekinesis Drive",
-    "thumb": "thumbs/telekinesis-drive.avif"
-  },
-  {
-    "file_name": "tetris-gba.html",
-    "title": "Tetris GBA",
-    "thumb": "thumbs/tetris-gba.avif"
-  },
-  {
-    "file_name": "the-deads-eat.html",
-    "title": "The Deads Eat",
-    "thumb": "thumbs/the-deads-eat.avif"
-  },
-  {
-    "file_name": "the-legend-of-zelda-majora's-mask.html",
-    "title": "The Legend of Zelda Majora's Mask",
-    "thumb": "thumbs/the-legend-of-zelda-majora's-mask.avif"
-  },
-  {
-    "file_name": "the-legend-of-zelda-ocarina-of-time.html",
-    "title": "The Legend of Zelda Ocarina of Time",
-    "thumb": "thumbs/the-legend-of-zelda-ocarina-of-time.avif"
-  },
-  {
-    "file_name": "unfair-mario.html",
-    "title": "Unfair Mario",
-    "thumb": "thumbs/unfair-mario.avif"
-  },
-  {
-    "file_name": "worlds-hardest-game.html",
-    "title": "Worlds Hardest Game",
-    "thumb": "thumbs/worlds-hardest-game.avif"
-  },
-  {
-    "file_name": "worlds-hardest-game-2.html",
-    "title": "Worlds Hardest Game 2",
-    "thumb": "thumbs/worlds-hardest-game-2.avif"
-  },
-  {
-    "file_name": "worlds-hardest-game-3.html",
-    "title": "Worlds Hardest Game 3",
-    "thumb": "thumbs/worlds-hardest-game-3.avif"
-  },
-  {
-    "file_name": "worlds-hardest-game-4.html",
-    "title": "Worlds Hardest Game 4",
-    "thumb": "thumbs/worlds-hardest-game-4.avif"
-  },
-  {
-    "file_name": "zelda-2-the-legend-of-link.html",
-    "title": "Zelda 2 the Legend of Link",
-    "thumb": "thumbs/zelda-2-the-legend-of-link.avif"
-  },
-  {
-    "file_name": "sandspiel.html",
-    "title": "Sandspiel",
-    "thumb": "thumbs/sandspiel.avif"
-  }
-]
+{
+  "Nintendo Switch": [
+    {
+      "file_name": "switchblade.html",
+      "title": "Switchblade",
+      "thumb": "thumbs/switchblade.avif"
+    }
+  ],
+  "Nintendo 64": [
+    {
+      "file_name": "64-in-1-nes.html",
+      "title": "64 in 1 NES",
+      "thumb": "thumbs/64-in-1-nes.avif"
+    },
+    {
+      "file_name": "donkey-kong-64.html",
+      "title": "Donkey Kong 64",
+      "thumb": "thumbs/donkey-kong-64.avif"
+    },
+    {
+      "file_name": "doom-64.html",
+      "title": "Doom 64",
+      "thumb": "thumbs/doom-64.avif"
+    },
+    {
+      "file_name": "kirby-64.html",
+      "title": "Kirby 64",
+      "thumb": "thumbs/kirby-64.avif"
+    },
+    {
+      "file_name": "mario-builder-64.html",
+      "title": "Mario Builder 64",
+      "thumb": "thumbs/mario-builder-64.avif"
+    },
+    {
+      "file_name": "mario-kart-64.html",
+      "title": "Mario Kart 64",
+      "thumb": "thumbs/mario-kart-64.avif"
+    },
+    {
+      "file_name": "super-mario-63.html",
+      "title": "Super Mario 63",
+      "thumb": "thumbs/super-mario-63.avif"
+    },
+    {
+      "file_name": "super-mario-64.html",
+      "title": "Super Mario 64",
+      "thumb": "thumbs/super-mario-64.avif"
+    },
+    {
+      "file_name": "super-mario-64-ds.html",
+      "title": "Super Mario 64 DS",
+      "thumb": "thumbs/super-mario-64-ds.avif"
+    },
+    {
+      "file_name": "the-legend-of-zelda-majora's-mask.html",
+      "title": "The Legend of Zelda Majora's Mask",
+      "thumb": "thumbs/the-legend-of-zelda-majora's-mask.avif"
+    },
+    {
+      "file_name": "the-legend-of-zelda-ocarina-of-time.html",
+      "title": "The Legend of Zelda Ocarina of Time",
+      "thumb": "thumbs/the-legend-of-zelda-ocarina-of-time.avif"
+    }
+  ],
+  "NES": [
+    {
+      "file_name": "absolute-madness.html",
+      "title": "Absolute Madness",
+      "thumb": "thumbs/absolute-madness.avif"
+    },
+    {
+      "file_name": "awesome-planes.html",
+      "title": "Awesome Planes",
+      "thumb": "thumbs/awesome-planes.avif"
+    },
+    {
+      "file_name": "bitplanes.html",
+      "title": "Bitplanes",
+      "thumb": "thumbs/bitplanes.avif"
+    },
+    {
+      "file_name": "castlevania-nes.html",
+      "title": "Castlevania NES",
+      "thumb": "thumbs/castlevania-nes.avif"
+    },
+    {
+      "file_name": "donkey-kong-nes.html",
+      "title": "Donkey Kong NES",
+      "thumb": "thumbs/donkey-kong-nes.avif"
+    },
+    {
+      "file_name": "mario-3.html",
+      "title": "Mario 3",
+      "thumb": "thumbs/mario-3.avif"
+    },
+    {
+      "file_name": "nintendo-world-cup.html",
+      "title": "Nintendo World Cup",
+      "thumb": "thumbs/nintendo-world-cup.avif"
+    },
+    {
+      "file_name": "super-mario-bros.html",
+      "title": "Super Mario Bros",
+      "thumb": "thumbs/super-mario-bros.avif"
+    },
+    {
+      "file_name": "super-mario-bros-2.html",
+      "title": "Super Mario Bros 2",
+      "thumb": "thumbs/super-mario-bros-2.avif"
+    },
+    {
+      "file_name": "super-mario-bros-2-us.html",
+      "title": "Super Mario Bros 2 Us",
+      "thumb": "thumbs/super-mario-bros-2-us.avif"
+    },
+    {
+      "file_name": "super-mario-bros-3.html",
+      "title": "Super Mario Bros 3",
+      "thumb": "thumbs/super-mario-bros-3.avif"
+    },
+    {
+      "file_name": "zelda-2-the-legend-of-link.html",
+      "title": "Zelda 2 the Legend of Link",
+      "thumb": "thumbs/zelda-2-the-legend-of-link.avif"
+    }
+  ],
+  "SNES": [
+    {
+      "file_name": "super-mario-kart.html",
+      "title": "Super Mario Kart",
+      "thumb": "thumbs/super-mario-kart.avif"
+    },
+    {
+      "file_name": "super-mario-world.html",
+      "title": "Super Mario World",
+      "thumb": "thumbs/super-mario-world.avif"
+    },
+    {
+      "file_name": "super-mario-world-2.html",
+      "title": "Super Mario World 2",
+      "thumb": "thumbs/super-mario-world-2.avif"
+    }
+  ],
+  "Game Boy": [
+    {
+      "file_name": "kirbys-dreamland.html",
+      "title": "Kirbys Dreamland",
+      "thumb": "thumbs/kirbys-dreamland.avif"
+    },
+    {
+      "file_name": "kirbys-dreamland-3.html",
+      "title": "Kirbys Dreamland 3",
+      "thumb": "thumbs/kirbys-dreamland-3.avif"
+    },
+    {
+      "file_name": "super-mario-land.html",
+      "title": "Super Mario Land",
+      "thumb": "thumbs/super-mario-land.avif"
+    },
+    {
+      "file_name": "super-mario-land-2.html",
+      "title": "Super Mario Land 2",
+      "thumb": "thumbs/super-mario-land-2.avif"
+    }
+  ],
+  "Game Boy Advance": [
+    {
+      "file_name": "alien-hominid-gba.html",
+      "title": "Alien Hominid GBA",
+      "thumb": "thumbs/alien-hominid-gba.avif"
+    },
+    {
+      "file_name": "megaman-2-gba.html",
+      "title": "Megaman 2 GBA",
+      "thumb": "thumbs/megaman-2-gba.avif"
+    },
+    {
+      "file_name": "tetris-gba.html",
+      "title": "Tetris GBA",
+      "thumb": "thumbs/tetris-gba.avif"
+    }
+  ],
+  "Nintendo DS / 3DS": [
+    {
+      "file_name": "breath-of-the-wild-nds.html",
+      "title": "Breath of the Wild NDS",
+      "thumb": "thumbs/breath-of-the-wild-nds.avif"
+    },
+    {
+      "file_name": "mario-kart-ds.html",
+      "title": "Mario Kart DS",
+      "thumb": "thumbs/mario-kart-ds.avif"
+    },
+    {
+      "file_name": "mario-party-ds.html",
+      "title": "Mario Party DS",
+      "thumb": "thumbs/mario-party-ds.avif"
+    },
+    {
+      "file_name": "pokemon-black.html",
+      "title": "Pokemon Black",
+      "thumb": "thumbs/pokemon-black.avif"
+    },
+    {
+      "file_name": "pokemon-diamond.html",
+      "title": "Pokemon Diamond",
+      "thumb": "thumbs/pokemon-diamond.avif"
+    },
+    {
+      "file_name": "pokemon-platinum.html",
+      "title": "Pokemon Platinum",
+      "thumb": "thumbs/pokemon-platinum.avif"
+    },
+    {
+      "file_name": "pokemon-white.html",
+      "title": "Pokemon White",
+      "thumb": "thumbs/pokemon-white.avif"
+    }
+  ]
+}
