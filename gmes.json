@@ -25,37 +25,6 @@
 		"thumb": "thumbs/12-mini-battles.avif"
 	},
 	{
-		"file_name": "1v1-lol.html",
-		"title": "1v1.LoL",
-		"thumb": "thumbs/1v1-lol.avif"
-	},
-	{
-		"file_name": "2048/index.html",
-		"title": "2048",
-		"thumb": "thumbs/2048.avif",
-		"frame": "true"
-	},
-	{
-		"file_name": "2048-merge-run.html",
-		"title": "2048 Merge Run",
-		"thumb": "thumbs/2048-merge-run.avif"
-	},
-	{
-		"file_name": "3d-bolt-master.html",
-		"title": "3D Bolt Master",
-		"thumb": "thumbs/3d-bolt-master.avif"
-	},
-	{
-		"file_name": "3d-bowling.html",
-		"title": "3D Bowling",
-		"thumb": "thumbs/3d-bowling.avif"
-	},
-	{
-		"file_name": "40-escape.html",
-		"title": "40 Escape",
-		"thumb": "thumbs/40-escape.avif"
-	},
-	{
 		"file_name": "60-seconds-burger-run.html",
 		"title": "60 Seconds Burger Run",
 		"thumb": "thumbs/60-seconds-burger-run.avif"
@@ -64,11 +33,6 @@
 		"file_name": "60-seconds-santa-run.html",
 		"title": "60 Seconds Santa Run",
 		"thumb": "thumbs/60-seconds-santa-run.avif"
-	},
-	{
-		"file_name": "64-in-1-nes.html",
-		"title": "64 in 1 NES",
-		"thumb": "thumbs/64-in-1-nes.avif"
 	},
 	{
 		"file_name": "8-ball-classic.html",
@@ -81,39 +45,14 @@
 		"thumb": "thumbs/8-ball-pool.avif"
 	},
 	{
-		"file_name": "9007199254740992.html",
-		"title": "9007199254740992",
-		"thumb": "thumbs/9007199254740992.avif"
-	},
-	{
 		"file_name": "99-balls.html",
 		"title": "99 Balls",
 		"thumb": "thumbs/99-balls.avif"
 	},
 	{
-		"file_name": "a-bite-from-freddy.html",
-		"title": "A Bite at Freddy's",
-		"thumb": "thumbs/a-bite-from-freddy.avif"
-	},
-	{
-		"file_name": "a-dark-room.html",
-		"title": "A Dark Room",
-		"thumb": "thumbs/a-dark-room.avif"
-	},
-	{
-		"file_name": "a-difficult-game-about-climbing.html",
-		"title": "A Difficult Game About Climbing",
-		"thumb": "thumbs/a-difficult-game-about-climbing.avif"
-	},
-	{
 		"file_name": "a-game-about-feeding-a-black-hole.html",
 		"title": "A Game About Feeding A Black Hole",
 		"thumb": "thumbs/a-game-about-feeding-a-black-hole.avif"
-	},
-	{
-		"file_name": "a-small-world-cup.html",
-		"title": "A Small World Cup",
-		"thumb": "thumbs/a-small-world-cup.avif"
 	},
 	{
 		"file_name": "abandoned.html",
@@ -124,16 +63,6 @@
 		"file_name": "abandoned-3.html",
 		"title": "Abandoned 3",
 		"thumb": "thumbs/abandoned-3.avif"
-	},
-	{
-		"file_name": "absolute-madness.html",
-		"title": "Absolute Madness",
-		"thumb": "thumbs/absolute-madness.avif"
-	},
-	{
-		"file_name": "ace-attorney.html",
-		"title": "Ace Attorney",
-		"thumb": "thumbs/ace-attorney.avif"
 	},
 	{
 		"file_name": "ace-combat-2.html",
@@ -7883,11 +7812,6 @@
 		"file_name": "underneath.html",
 		"title": "Underneath",
 		"thumb": "thumbs/underneath.avif"
-	},
-	{
-		"file_name": "undertale.html",
-		"title": "Undertale",
-		"thumb": "thumbs/undertale.avif"
 	},
 	{
 		"file_name": "undertale-yellow.html",
