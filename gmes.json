@@ -816,7 +816,7 @@
 		"thumb": "thumbs/bloons-td-5.avif"
 	},
 	{
-		"file_name": "bloons-td-6.html",
+		"file_name": "bloons-td--6.html",
 		"title": "Bloons TD 6",
 		"thumb": "thumbs/bloons-td-6.avif"
 	},
@@ -6005,12 +6005,6 @@
 		"file_name": "road-of-fury.html",
 		"title": "Road of Fury",
 		"thumb": "thumbs/road-of-fury.avif"
-	},
-	{
-		"file_name": "roblox.html",
-		"title": "Roblox",
-		"frame": "true",
-		"thumb": "thumbs/roblox.avif"
 	},
 	{
 		"file_name": "robot-invasion.html",
