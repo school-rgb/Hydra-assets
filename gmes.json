@@ -270,6 +270,11 @@
 		"thumb": "thumbs/angry-birds-showdown.avif"
 	},
 	{
+		"file_name": "Angry-birds-epic.html",
+		"title": "Angry birds epic ",
+		"thumb": "thumbs/angry-birds-epic.avif"
+	},
+	{
 		"file_name": "animal-crossing-wild-world.html",
 		"title": "Animal Crossing Wild World",
 		"thumb": "thumbs/animal-crossing-wild-world.avif"
@@ -4567,6 +4572,16 @@
 		"file_name": "mindwave.html",
 		"title": "Mindwave",
 		"thumb": "thumbs/mindwave.avif"
+	},
+	{
+		"file_name": "minecraft-1.12.2.html",
+		"title": "minecraft 1.12.2",
+		"thumb": "thumbs/minecraft1.12.2.avif"
+	},
+	{
+		"file_name": "minecraft-1.8.8.html",
+		"title": "minecraft 1.8.8",
+		"thumb": "thumbs/minecraft1.8.8.avif"
 	},
 	{
 		"file_name": "minesweeper-mania.html",
