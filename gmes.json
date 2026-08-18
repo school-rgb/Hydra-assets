@@ -5715,6 +5715,16 @@
 		"thumb": "thumbs/quickie-world.avif"
 	},
 	{
+		"file_name": "rabbids.html",
+		"title": "rabbids alive and kicking",
+		"thumb": "thumbs/rabbids.avif"
+	},
+	{
+		"file_name": "rabbids-tr.html",
+		"title": "rabbids travel in time",
+		"thumb": "thumbs/rabbids-tr.avif"
+	},
+	{
 		"file_name": "repo.html",
 		"title": "R.E.P.O",
 		"thumb": "thumbs/repo.avif"
