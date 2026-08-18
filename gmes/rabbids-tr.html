@@ -1,55 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-
     <meta charset="UTF-8">
-    <title></title>
-    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>new super</title>
     <style>
-        html, body {
+        body, html {
             margin: 0;
             padding: 0;
             width: 100%;
             height: 100%;
             overflow: hidden;
-            background: black;
+            background-color: #121212;
         }
-        #swf {
+        .container {
             width: 100%;
             height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
         }
-        #swf canvas {
-            display: block;
+        iframe {
             width: 100%;
             height: 100%;
-            object-fit: contain;
+            border: none;
         }
     </style>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PXHK7Q7G3Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag("js", new Date());
-  gtag("config", "G-PXHK7Q7G3Z");
-</script>
 </head>
 <body>
-    <div id="swf"></div>
-    <script>
-        window.addEventListener("load", () => {
-            const ruffle = window.RufflePlayer.newest();
-            const player = ruffle.createPlayer();
-            const container = document.getElementById("swf");
-            player.style.width = '100%';
-            player.style.height = '100%';
-                        container.appendChild(player);
-            player.load("rab.swf");
-        });
-    </script>
+    <div class="container">
+        <iframe src="https://truffled.lol/games/rabbidst/index.html" allowfullscreen></iframe>
+    </div>
 </body>
 </html>
